@@ -9,7 +9,7 @@ I will appreciate any feedback regarding my code.
 To use my code on your own, clone the repository from the following link. 
 
    ```sh
-   git clone https://github.com/mateuszbaranczyk/email_sender
+   git clone https://github.com/mateuszbaranczyk/bot_msg_sender
    ```
 Install required libraries: 
 
